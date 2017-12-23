@@ -1,20 +1,29 @@
 # BitcoinBot
 
-Check FOXBIT API for bitcoin price
+Check **FOXBIT API** for bitcoin price
 
-check every 1 minuto for changes in BTC price at FOXBIT plataform
+check every 1 minute for changes in BTC price at FOXBIT plataform
+
+
+**Email send**
 
 Also send email every 1 hour with the log.
-You have to edit your email at
+
+You have to add your email at the command line:
+
+    python3 consult.py youremail@serv.com
+    
+if none email is passed, defautl email send is to 
+mine email and felix's email
 
 # Dependencies
 
-sudo pip3 install requests, numpy, matplotlib
+    sudo pip3 install requests, numpy, matplotlib
 
 # Running bot
 
-python3 consulta.py
+    python3 consulta.py
 
 # Running regression
 
-python3 mining.py
+    python3 mining.py
