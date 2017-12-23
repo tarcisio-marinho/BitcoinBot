@@ -8,7 +8,7 @@ vol: volume em BTC de operações no período
 vwap: preço médio em Reais no período (volume weighted average price)
 money: volume em Reais de operações no período
 trades: número de operações no período
-
+open: preço da primeira operação naquela exchange no período
 """
 
 def convert_timestamp(timestamp):
@@ -44,6 +44,12 @@ def log(timestamp, mode, message):
     elif(mode == "CRITICAL"):
         logger.critical(message)
 
+def save_open(last):
+    if(not os.path.isdir("config/")):
+        os.mkdir("config")
+    
+    with open("config/opens.txt", "a+") as f:
+        f.write(last + "\n")
 
 # fazer no maximo 1 requisição por minuto
 def request_API():
@@ -61,24 +67,26 @@ def request_API():
 
     if (req.status_code == 200):
         data = json.loads(req.text)
-         
+
+        # datetime
         request_date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
 
+        #dict
         foxbit_exchanges_1h = data["ticker_1h"]["exchanges"]["FOX"]
 
-        foxbit_open = data["ticker_1h"]["exchanges"]["FOX"]["open"]
-        foxbit_last = data["ticker_1h"]["exchanges"]["FOX"]["last"]
-        foxbit_vwap = data["ticker_1h"]["exchanges"]["FOX"]["vwap"]
-        foxbit_money = data["ticker_1h"]["exchanges"]["FOX"]["money"]
-        foxbit_high = data["ticker_1h"]["exchanges"]["FOX"]["high"]
-        foxbit_low = data["ticker_1h"]["exchanges"]["FOX"]["low"]
-        foxbit_trades = data["ticker_1h"]["exchanges"]["FOX"]["trades"]
-        foxbit_vol = data["ticker_1h"]["exchanges"]["FOX"]["vol"]
+        # all features
+        foxbit_last = foxbit_exchanges_1h["last"]
+        foxbit_high = foxbit_exchanges_1h["high"]
+        foxbit_low = foxbit_exchanges_1h["low"]
+        foxbit_vol = foxbit_exchanges_1h["vol"]
+        foxbit_vwap = foxbit_exchanges_1h["vwap"]
+        foxbit_money = foxbit_exchanges_1h["money"]
+        foxbit_trades = foxbit_exchanges_1h["trades"]
+        foxbit_open = foxbit_exchanges_1h["open"]
 
-        print(foxbit_high, foxbit_last, foxbit_low, foxbit_money, 
-              foxbit_open, foxbit_open, foxbit_trades, foxbit_vol, foxbit_vwap)
 
-        log(request_date, "INFO", "checou o preco do bitcoin")
+        log(request_date, "INFO", str(foxbit_exchanges_1h))
+        save_open(str(foxbit_open))
         
     elif(req.status_code == 304):
         log(None, "WARNING", "Nenhuma alteracao ocorrida desde a última checagem.")
