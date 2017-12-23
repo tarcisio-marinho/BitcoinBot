@@ -1,4 +1,4 @@
-import requests, json, os, datetime, sqlite3, logging
+import requests, json, os, datetime, sqlite3, logging, time
 
 
 def log(timestamp, mode, message):
@@ -47,12 +47,12 @@ def request_API():
 
     if (req.status_code == 200):
         data = json.loads(req.text)
+         
+        date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
         
-        timestamp = data["timestamp"]["exchanges"]["FOX"]
-        date = convert_timestamp(timestamp)
-        
-        print(timestamp, date)
+        print(date)
         log(date, "INFO", "checou o preco do bitcoin")
+        
     elif(req.status_code == 304):
         log(None, "WARNING", "Nenhuma alteracao ocorrida desde a última checagem.")
     
@@ -65,8 +65,7 @@ def file():
     data = f.read()
     data = json.loads(data)
         
-    timestamp = data["timestamp"]["exchanges"]["FOX"]
-    date = convert_timestamp(timestamp)
+    date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
 
     
 
@@ -75,8 +74,10 @@ def convert_timestamp(timestamp):
     return datetime.datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %H:%M:%S')
 
 if __name__ == "__main__":
+
     while(1):
         request_API()
         time.sleep(60) # new requisition every 1 minute
+    
     #file()
     pass
