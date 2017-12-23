@@ -36,8 +36,11 @@ def request_API():
     url = "https://api.bitvalor.com/v1/ticker.json"
     try:
         req = requests.get(url)
+
     except requests.exceptions.ConnectionError:
         log(None, "ERROR", "Sem conexão com a internet.")
+        return
+
     except:
         log(None, "ERROR", "Algum erro desconhecido com a checagem da API ocorreu.")
         return
@@ -72,6 +75,8 @@ def convert_timestamp(timestamp):
     return datetime.datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %H:%M:%S')
 
 if __name__ == "__main__":
-    request_API()
+    while(1):
+        request_API()
+        time.sleep(60) # new requisition every 1 minute
     #file()
     pass
