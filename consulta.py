@@ -125,14 +125,15 @@ def send_mail(send_from, send_to, subject, text):
 
 
 if __name__ == "__main__":
-    times = 0
 
     while(1):
         request_API()
-        times+=1
         time.sleep(60) # new requisition every 1 minute
 
-        if(times == 60):
+        num_lines = sum(1 for line in open('config/opens.txt'))
+        print(num_lines)
+        
+        if(num_lines % 60 == 0):
             hora = convert_timestamp(time.time())
             send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "oi, eu tenho atualizacoes"
 	  , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - {0}").format(hora)
