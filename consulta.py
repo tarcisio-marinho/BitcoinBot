@@ -75,9 +75,9 @@ def convert_timestamp(timestamp):
 
 if __name__ == "__main__":
 
-    while(1):
-        request_API()
-        time.sleep(60) # new requisition every 1 minute
+    # while(1):
+    #     request_API()
+    #     time.sleep(60) # new requisition every 1 minute
     
-    #file()
+    file()
     pass
