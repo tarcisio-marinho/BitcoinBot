@@ -11,7 +11,7 @@ Also send email every 1 hour with the log.
 
 You have to add your email at the command line:
 
-    python3 consult.py youremail@serv.com
+    python3 consult.py <youremail@serv.com>
     
 if none email is passed, defautl email send is to 
 mine email and felix's email
@@ -22,7 +22,7 @@ mine email and felix's email
 
 # Running bot
 
-    python3 consulta.py
+    python3 consult.py <youremail@serv.com>
 
 # Running regression
 
