@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-#Logger folder
-config/
-
 # Distribution / packaging
 .Python
 env/
@@ -54,7 +51,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 
 # Flask stuff:
