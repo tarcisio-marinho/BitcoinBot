@@ -5,7 +5,7 @@ from email.mime.application import MIMEApplication
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.utils import COMMASPACE, formatdate
-
+from sys import argv
 
 """ INFO
 last: preço em Reais baseado no último trade de cada exchange e ponderado pelo volume do período
@@ -139,10 +139,24 @@ if __name__ == "__main__":
 
         num_lines = sum(1 for line in open('config/opens.txt'))
 
-        if(num_lines % 62 == 0):
+        if(num_lines % 60 == 0):
             hora = convert_timestamp(time.time())
-            send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "oi, eu tenho atualizacoes"
-	  , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+            if(len(argv) > 2):
+                try:
+                    send_mail("elizabot123@gmail.com", argv[1], "oi, eu tenho atualizacoes"
+                            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+                except:
+                    log(hora, "ERROR", "Erro ao enviar email para: " + argv[1])
 
-            send_mail("elizabot123@gmail.com", "felix_ruan09@hotmail.com", "oi, eu tenho atualizacoes"
-            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+            else:
+                try:
+                    send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "oi, eu tenho atualizacoes"
+                            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+                except:
+                    log(hora, "ERROR", "Erro ao enviar email para: tarcisio_marinho09@hotmail.com")
+
+                try:
+                    send_mail("elizabot123@gmail.com", "felix_ruan09@hotmail.com", "oi, eu tenho atualizacoes"
+                            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+                except:
+                    log(hora, "ERROR", "Erro ao enviar email para: felix_ruan09@hotmail.com")
