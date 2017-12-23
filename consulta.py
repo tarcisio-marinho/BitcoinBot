@@ -1,5 +1,8 @@
 import requests, json, os, datetime, sqlite3, logging, time
 
+def convert_timestamp(timestamp):
+    return datetime.datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %H:%M:%S')
+
 
 def log(timestamp, mode, message):
     if(not os.path.isdir("config/")):
@@ -48,10 +51,24 @@ def request_API():
     if (req.status_code == 200):
         data = json.loads(req.text)
          
-        date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
-        
-        print(date)
-        log(date, "INFO", "checou o preco do bitcoin")
+        request_date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
+        print("time", request_date)
+
+        print("\n\n\n24horas",)
+        foxbit_exchanges_24h = data["ticker_24h"]["exchanges"]["FOX"]
+        for i in foxbit_exchanges_24h:
+            print(i ,":", foxbit_exchanges_24h[i])
+        print("\n\n\n12 horas",)
+        foxbit_exchanges_12h = data["ticker_12h"]["exchanges"]["FOX"]
+        for i in foxbit_exchanges_12h:
+            print(i ,":", foxbit_exchanges_12h[i])
+
+        print("\n\n\n1 hora",)
+        foxbit_exchanges_1h = data["ticker_1h"]["exchanges"]["FOX"]
+        for i in foxbit_exchanges_1h:
+            print(i ,":", foxbit_exchanges_1h[i])
+
+        log(request_date, "INFO", "checou o preco do bitcoin")
         
     elif(req.status_code == 304):
         log(None, "WARNING", "Nenhuma alteracao ocorrida desde a última checagem.")
@@ -60,24 +77,42 @@ def request_API():
         log(None, "CRITICAL", "Muitas requisições feitas, se continuar, não poderá fazer mais checagens.")
 
 
-def file():
+def open_file():
     f = open("data.json")
     data = f.read()
     data = json.loads(data)
-        
-    date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
-
     
+    request_date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
+    print("time", request_date)
 
+    print("\n\n\n24horas",)
+    foxbit_exchanges_24h = data["ticker_24h"]["exchanges"]["FOX"]
+    for i in foxbit_exchanges_24h:
+        print(i ,":", foxbit_exchanges_24h[i])
+    print("\n\n\n12 horas",)
+    foxbit_exchanges_12h = data["ticker_12h"]["exchanges"]["FOX"]
+    for i in foxbit_exchanges_12h:
+        print(i ,":", foxbit_exchanges_12h[i])
 
-def convert_timestamp(timestamp):
-    return datetime.datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %H:%M:%S')
+    print("\n\n\n1 hora",)
+    foxbit_exchanges_1h = data["ticker_1h"]["exchanges"]["FOX"]
+    for i in foxbit_exchanges_1h:
+        print(i ,":", foxbit_exchanges_1h[i])
+    """
+    last: preço em Reais baseado no último trade de cada exchange e ponderado pelo volume do período
+    high: maior valor em Reais de uma operação no período
+    low: menor valor em Reais de uma operação no período
+    vol: volume em BTC de operações no período
+    vwap: preço médio em Reais no período (volume weighted average price)
+    money: volume em Reais de operações no período
+    trades: número de operações no período
 
+    """
+    
 if __name__ == "__main__":
 
-    # while(1):
-    #     request_API()
-    #     time.sleep(60) # new requisition every 1 minute
+    while(1):
+        request_API()
+        time.sleep(60) # new requisition every 1 minute
     
-    file()
     pass
