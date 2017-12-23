@@ -25,5 +25,6 @@ mine email and felix's email
     python3 consult.py <youremail@serv.com>
 
 # Running regression
+![alt text](regression.png)
 
     python3 mining.py
