@@ -89,8 +89,8 @@ if __name__ == "__main__":
 
     
 
-    plt.scatter(xs, ys)
+    plt.scatter(ys, xs)
     #plt.scatter(predict_x, predict_y)
-    plt.plot(xs, regression_line)
+    #plt.plot(xs, regression_line)
     plt.show()
     
