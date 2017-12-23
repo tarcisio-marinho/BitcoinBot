@@ -63,21 +63,20 @@ def request_API():
         data = json.loads(req.text)
          
         request_date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
-        print("time", request_date)
 
-        print("\n\n\n24horas",)
-        foxbit_exchanges_24h = data["ticker_24h"]["exchanges"]["FOX"]
-        for i in foxbit_exchanges_24h:
-            print(i ,":", foxbit_exchanges_24h[i])
-        print("\n\n\n12 horas",)
-        foxbit_exchanges_12h = data["ticker_12h"]["exchanges"]["FOX"]
-        for i in foxbit_exchanges_12h:
-            print(i ,":", foxbit_exchanges_12h[i])
-
-        print("\n\n\n1 hora",)
         foxbit_exchanges_1h = data["ticker_1h"]["exchanges"]["FOX"]
-        for i in foxbit_exchanges_1h:
-            print(i ,":", foxbit_exchanges_1h[i])
+
+        foxbit_open = data["ticker_1h"]["exchanges"]["FOX"]["open"]
+        foxbit_last = data["ticker_1h"]["exchanges"]["FOX"]["last"]
+        foxbit_vwap = data["ticker_1h"]["exchanges"]["FOX"]["vwap"]
+        foxbit_money = data["ticker_1h"]["exchanges"]["FOX"]["money"]
+        foxbit_high = data["ticker_1h"]["exchanges"]["FOX"]["high"]
+        foxbit_low = data["ticker_1h"]["exchanges"]["FOX"]["low"]
+        foxbit_trades = data["ticker_1h"]["exchanges"]["FOX"]["trades"]
+        foxbit_vol = data["ticker_1h"]["exchanges"]["FOX"]["vol"]
+
+        print(foxbit_high, foxbit_last, foxbit_low, foxbit_money, 
+              foxbit_open, foxbit_open, foxbit_trades, foxbit_vol, foxbit_vwap)
 
         log(request_date, "INFO", "checou o preco do bitcoin")
         
