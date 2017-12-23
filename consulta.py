@@ -95,11 +95,47 @@ def request_API():
         log(None, "CRITICAL", "Muitas requisições feitas, se continuar, não poderá fazer mais checagens.")
 
 
-    
+def send_mail(send_from, send_to, subject, text):
+
+    msg = MIMEMultipart()
+    msg['From'] = send_from
+    msg['To'] = COMMASPACE.join(send_to)
+    msg['Date'] = formatdate(localtime=True)
+    msg['Subject'] = subject
+
+    msg.attach(MIMEText(text))
+
+    with open("config/logg.log", "rb") as fil:
+        part = MIMEApplication(
+            fil.read(),
+            Name=basename("config/logg.log")
+        )
+    # After the file is closed
+    part['Content-Disposition'] = 'attachment; filename="config/logg.log"'
+    msg.attach(part)
+
+
+    smtp = smtplib.SMTP('smtp.gmail.com', 587)
+    smtp.starttls()
+
+    # Email e senha da Eliza, por favor não utilizar #
+    smtp.login('elizabot123@gmail.com','boteliza123')
+    smtp.sendmail(send_from, send_to, msg.as_string())
+    smtp.close()
+
+
 if __name__ == "__main__":
+    times = 0
 
     while(1):
         request_API()
+        times+=1
         time.sleep(60) # new requisition every 1 minute
-    
-    pass
+
+        if(times == 60):
+            hora = convert_timestamp(time.time())
+            send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "oi, eu tenho atualizacoes"
+	  , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - {0}").format(hora)
+
+            send_mail("elizabot123@gmail.com", "felix_ruan09@hotmail.com", "oi, eu tenho atualizacoes"
+            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - {0}").format(hora)
