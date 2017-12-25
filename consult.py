@@ -76,6 +76,7 @@ def request_API():
 
     if (req.status_code == 200):
         data = json.loads(req.text)
+        print(data)
 
         # datetime
         request_date = convert_timestamp(timestamp)
@@ -127,7 +128,7 @@ if __name__ == "__main__":
         request_API()
         time.sleep(60) # new requisition every 1 minute
 
-        num_lines = sum(1 for line in open('config/opens.txt'))
+        num_lines = sum(1 for line in open('config/lasts.txt'))
 
         if(num_lines % 60 == 0):
             hora = convert_timestamp(time.time())
