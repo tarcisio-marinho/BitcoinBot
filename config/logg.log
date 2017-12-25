@@ -9,3 +9,1015 @@ INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 45275491.12257467, 'pair'
 INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
 DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
 INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 45266103.9538528, 'pair': 'BTCBRL', 'sell': 50497.0, 'last': 50497.0, 'vol': 911.61804653, 'high': 54450.0, 'buy': 50009.91}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44779700.29514298, 'pair': 'BTCBRL', 'sell': 50449.99, 'last': 50010.91, 'vol': 902.44829227, 'high': 54450.0, 'buy': 50010.92}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44739338.30266644, 'pair': 'BTCBRL', 'sell': 50435.0, 'last': 50010.91, 'vol': 901.68452741, 'high': 54450.0, 'buy': 50010.93}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44561780.65135534, 'pair': 'BTCBRL', 'sell': 50450.0, 'last': 50450.0, 'vol': 898.35649314, 'high': 54450.0, 'buy': 50000.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44561780.65135534, 'pair': 'BTCBRL', 'sell': 50450.0, 'last': 50450.0, 'vol': 898.35649314, 'high': 54450.0, 'buy': 50003.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44561780.65135534, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50450.0, 'vol': 898.35649314, 'high': 54450.0, 'buy': 50009.46}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44489937.26364249, 'pair': 'BTCBRL', 'sell': 50450.0, 'last': 50450.0, 'vol': 896.99520996, 'high': 54450.0, 'buy': 50009.45}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44404770.72640571, 'pair': 'BTCBRL', 'sell': 50399.99, 'last': 50400.0, 'vol': 895.40371531, 'high': 54450.0, 'buy': 50009.46}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44404770.72640571, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50400.0, 'vol': 895.40371531, 'high': 54450.0, 'buy': 50004.4}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 44199074.21620987, 'pair': 'BTCBRL', 'sell': 50400.0, 'last': 50450.0, 'vol': 891.48232016, 'high': 54450.0, 'buy': 50004.4}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43933900.9008277, 'pair': 'BTCBRL', 'sell': 50400.0, 'last': 50399.99, 'vol': 886.42418351, 'high': 54450.0, 'buy': 50004.99}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43885665.26545157, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50006.01, 'vol': 885.50179173, 'high': 54450.0, 'buy': 50006.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43878586.51322809, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50007.99, 'vol': 885.36702317, 'high': 54450.0, 'buy': 50007.99}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43576321.61720635, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50449.0, 'vol': 879.62297037, 'high': 54450.0, 'buy': 50009.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43576321.61720635, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50449.0, 'vol': 879.62297037, 'high': 54450.0, 'buy': 50008.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43576321.61720635, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50449.0, 'vol': 879.62297037, 'high': 54450.0, 'buy': 50009.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43576321.61720635, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50449.0, 'vol': 879.62297037, 'high': 54450.0, 'buy': 50008.04}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43576321.61720635, 'pair': 'BTCBRL', 'sell': 50447.0, 'last': 50449.0, 'vol': 879.62297037, 'high': 54450.0, 'buy': 50023.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43384488.24900276, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50447.0, 'vol': 876.05438812, 'high': 54450.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43384488.24900276, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50447.0, 'vol': 876.05438812, 'high': 54450.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43354131.68147516, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50448.0, 'vol': 875.49452476, 'high': 54000.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43354131.68147516, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50448.0, 'vol': 875.49452476, 'high': 54000.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43354131.68147516, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50448.0, 'vol': 875.49452476, 'high': 54000.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43231691.34338529, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50449.0, 'vol': 873.20480292, 'high': 54000.0, 'buy': 50448.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43231691.34338529, 'pair': 'BTCBRL', 'sell': 50449.0, 'last': 50449.0, 'vol': 873.20480292, 'high': 54000.0, 'buy': 50448.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43178870.98577401, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50448.01, 'vol': 872.21479943, 'high': 54000.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43180892.49554992, 'pair': 'BTCBRL', 'sell': 50448.01, 'last': 50448.01, 'vol': 872.25487058, 'high': 54000.0, 'buy': 50448.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43154533.30700802, 'pair': 'BTCBRL', 'sell': 50448.0, 'last': 50000.01, 'vol': 871.88149468, 'high': 54000.0, 'buy': 50000.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43113858.53523887, 'pair': 'BTCBRL', 'sell': 50446.99, 'last': 50000.0, 'vol': 871.17253573, 'high': 54000.0, 'buy': 50000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43113858.53523887, 'pair': 'BTCBRL', 'sell': 50400.03, 'last': 50000.0, 'vol': 871.17253573, 'high': 54000.0, 'buy': 50000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43113858.53523887, 'pair': 'BTCBRL', 'sell': 50400.01, 'last': 50000.0, 'vol': 871.17253573, 'high': 54000.0, 'buy': 50000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43113858.53523887, 'pair': 'BTCBRL', 'sell': 50400.02, 'last': 50000.0, 'vol': 871.17253573, 'high': 54000.0, 'buy': 50000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43075541.54381557, 'pair': 'BTCBRL', 'sell': 50400.02, 'last': 50000.01, 'vol': 870.45935552, 'high': 53994.0, 'buy': 50000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43075541.54381557, 'pair': 'BTCBRL', 'sell': 50400.02, 'last': 50000.01, 'vol': 870.45935552, 'high': 53994.0, 'buy': 50000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43059853.42081894, 'pair': 'BTCBRL', 'sell': 50400.0, 'last': 50400.02, 'vol': 870.16931092, 'high': 53993.0, 'buy': 50000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43059853.42081894, 'pair': 'BTCBRL', 'sell': 50399.99, 'last': 50400.02, 'vol': 870.16931092, 'high': 53993.0, 'buy': 50000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43059853.42081894, 'pair': 'BTCBRL', 'sell': 50399.99, 'last': 50400.02, 'vol': 870.16931092, 'high': 53993.0, 'buy': 50000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 43059853.42081894, 'pair': 'BTCBRL', 'sell': 50400.0, 'last': 50400.02, 'vol': 870.16931092, 'high': 53993.0, 'buy': 50003.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42880839.33051154, 'pair': 'BTCBRL', 'sell': 50399.96, 'last': 50003.01, 'vol': 866.81465249, 'high': 53505.0, 'buy': 50003.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42728838.70779426, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 50000.0, 'vol': 863.93372525, 'high': 53450.0, 'buy': 49999.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42728838.70779426, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 50000.0, 'vol': 863.93372525, 'high': 53450.0, 'buy': 49999.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42647342.11800707, 'pair': 'BTCBRL', 'sell': 49997.99, 'last': 49901.0, 'vol': 862.40690496, 'high': 53450.0, 'buy': 49901.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42636231.93702498, 'pair': 'BTCBRL', 'sell': 49799.99, 'last': 49722.0, 'vol': 862.22745811, 'high': 53450.0, 'buy': 49722.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42667958.17515032, 'pair': 'BTCBRL', 'sell': 49700.0, 'last': 49699.99, 'vol': 862.91536763, 'high': 53450.0, 'buy': 49601.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42652101.38509267, 'pair': 'BTCBRL', 'sell': 49601.01, 'last': 49601.0, 'vol': 862.61736806, 'high': 53450.0, 'buy': 49601.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42652101.38509267, 'pair': 'BTCBRL', 'sell': 49601.01, 'last': 49601.0, 'vol': 862.61736806, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42548471.9054704, 'pair': 'BTCBRL', 'sell': 49601.01, 'last': 49601.01, 'vol': 860.67293928, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42548471.9054704, 'pair': 'BTCBRL', 'sell': 49601.01, 'last': 49601.01, 'vol': 860.67293928, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42448916.46200391, 'pair': 'BTCBRL', 'sell': 49601.01, 'last': 49600.02, 'vol': 858.82302139, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42444326.46877009, 'pair': 'BTCBRL', 'sell': 49700.0, 'last': 49600.03, 'vol': 858.73945656, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42443483.47119596, 'pair': 'BTCBRL', 'sell': 49699.99, 'last': 49600.02, 'vol': 858.72376484, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42443483.47119596, 'pair': 'BTCBRL', 'sell': 49699.99, 'last': 49600.02, 'vol': 858.72376484, 'high': 53450.0, 'buy': 49600.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42443483.47119596, 'pair': 'BTCBRL', 'sell': 49700.0, 'last': 49600.02, 'vol': 858.72376484, 'high': 53450.0, 'buy': 49600.96}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42400683.28770016, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49700.0, 'vol': 857.92580331, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42400683.28770016, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49700.0, 'vol': 857.92580331, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42400683.28770016, 'pair': 'BTCBRL', 'sell': 49990.0, 'last': 49700.0, 'vol': 857.92580331, 'high': 53450.0, 'buy': 49750.01}
+ERROR 2017-12-24 21:15:49 - Erro ao enviar email para: tarcisio_marinho09@hotmail.com
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42400683.28770016, 'pair': 'BTCBRL', 'sell': 49989.99, 'last': 49700.0, 'vol': 857.92580331, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42400683.28770016, 'pair': 'BTCBRL', 'sell': 49989.97, 'last': 49700.0, 'vol': 857.92580331, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42397855.13164735, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 49989.97, 'vol': 857.88146671, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42421188.73049889, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49601.0, 'vol': 858.35205159, 'high': 53450.0, 'buy': 49601.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42228105.81896866, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49999.98, 'vol': 854.71983872, 'high': 53450.0, 'buy': 49601.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42228105.81896866, 'pair': 'BTCBRL', 'sell': 49990.0, 'last': 49999.98, 'vol': 854.71983872, 'high': 53450.0, 'buy': 49601.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42228105.81896866, 'pair': 'BTCBRL', 'sell': 49989.99, 'last': 49999.98, 'vol': 854.71983872, 'high': 53450.0, 'buy': 49601.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42228105.81896866, 'pair': 'BTCBRL', 'sell': 49989.99, 'last': 49999.98, 'vol': 854.71983872, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42228105.81896866, 'pair': 'BTCBRL', 'sell': 49990.0, 'last': 49999.98, 'vol': 854.71983872, 'high': 53450.0, 'buy': 49641.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42029896.4114378, 'pair': 'BTCBRL', 'sell': 49989.99, 'last': 49990.0, 'vol': 850.96145158, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 42029896.4114378, 'pair': 'BTCBRL', 'sell': 49990.0, 'last': 49990.0, 'vol': 850.96145158, 'high': 53450.0, 'buy': 49900.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41405475.97789571, 'pair': 'BTCBRL', 'sell': 49899.99, 'last': 49900.0, 'vol': 838.99426736, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41228234.23386211, 'pair': 'BTCBRL', 'sell': 49900.0, 'last': 49900.0, 'vol': 835.58905527, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41012136.35486268, 'pair': 'BTCBRL', 'sell': 49899.99, 'last': 49640.01, 'vol': 831.44354099, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41012136.35486268, 'pair': 'BTCBRL', 'sell': 49899.96, 'last': 49640.01, 'vol': 831.44354099, 'high': 53450.0, 'buy': 49640.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41008867.99036659, 'pair': 'BTCBRL', 'sell': 49899.89, 'last': 49640.0, 'vol': 831.39016917, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41012640.7414984, 'pair': 'BTCBRL', 'sell': 49897.99, 'last': 49640.0, 'vol': 831.47971392, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41012640.7414984, 'pair': 'BTCBRL', 'sell': 49896.99, 'last': 49640.0, 'vol': 831.47971392, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 41012640.7414984, 'pair': 'BTCBRL', 'sell': 49896.99, 'last': 49640.0, 'vol': 831.47971392, 'high': 53450.0, 'buy': 49640.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40969244.94845746, 'pair': 'BTCBRL', 'sell': 49640.01, 'last': 49640.01, 'vol': 830.65083124, 'high': 53450.0, 'buy': 49640.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40967171.30688599, 'pair': 'BTCBRL', 'sell': 49896.99, 'last': 49640.01, 'vol': 830.61137862, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40967171.30688599, 'pair': 'BTCBRL', 'sell': 49896.99, 'last': 49640.01, 'vol': 830.61137862, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49896.99, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49750.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49897.0, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49632.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49896.97, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49751.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49896.97, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49633.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49896.97, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49632.99}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49896.99, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49632.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40959284.75931555, 'pair': 'BTCBRL', 'sell': 49896.98, 'last': 49750.0, 'vol': 830.46615579, 'high': 53450.0, 'buy': 49632.06}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40582716.3695346, 'pair': 'BTCBRL', 'sell': 50348.99, 'last': 50349.0, 'vol': 823.23968408, 'high': 53450.0, 'buy': 49633.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40588633.21772282, 'pair': 'BTCBRL', 'sell': 50346.97, 'last': 50346.99, 'vol': 823.35999277, 'high': 53450.0, 'buy': 49635.06}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40588633.21772282, 'pair': 'BTCBRL', 'sell': 50344.96, 'last': 50346.99, 'vol': 823.35999277, 'high': 53450.0, 'buy': 49647.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40588633.21772282, 'pair': 'BTCBRL', 'sell': 50340.0, 'last': 50346.99, 'vol': 823.35999277, 'high': 53450.0, 'buy': 49649.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40588633.21772282, 'pair': 'BTCBRL', 'sell': 50299.96, 'last': 50346.99, 'vol': 823.35999277, 'high': 53450.0, 'buy': 49649.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40401909.94529027, 'pair': 'BTCBRL', 'sell': 49650.0, 'last': 49650.0, 'vol': 819.78454513, 'high': 53450.0, 'buy': 49632.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40401909.94529027, 'pair': 'BTCBRL', 'sell': 49647.99, 'last': 49650.0, 'vol': 819.78454513, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40357926.30193924, 'pair': 'BTCBRL', 'sell': 49647.99, 'last': 49647.99, 'vol': 818.936966, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40270592.63665166, 'pair': 'BTCBRL', 'sell': 49647.99, 'last': 49647.99, 'vol': 817.26607901, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40251291.1655196, 'pair': 'BTCBRL', 'sell': 49647.99, 'last': 49647.99, 'vol': 816.89583812, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40251291.1655196, 'pair': 'BTCBRL', 'sell': 49647.99, 'last': 49647.99, 'vol': 816.89583812, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40114408.06481041, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 814.27126035, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 40114408.06481041, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 814.27126035, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 39712596.45962026, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 806.40348616, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38593648.12128986, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 784.31581721, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38593648.12128986, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 784.31581721, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38593648.12128986, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 784.31581721, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38593648.12128986, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 784.31581721, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38593648.12128986, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 784.31581721, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38525189.81777965, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 782.98407818, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38525189.81777965, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49649.99, 'vol': 782.98407818, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38484591.82821698, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49632.01, 'vol': 782.2047443, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38484591.82821698, 'pair': 'BTCBRL', 'sell': 49649.99, 'last': 49632.01, 'vol': 782.2047443, 'high': 53450.0, 'buy': 49632.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38470544.63446884, 'pair': 'BTCBRL', 'sell': 49634.97, 'last': 49502.0, 'vol': 781.97462744, 'high': 53450.0, 'buy': 49502.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38312220.19055692, 'pair': 'BTCBRL', 'sell': 49633.97, 'last': 49650.0, 'vol': 778.92630563, 'high': 53450.0, 'buy': 49502.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38312220.19055692, 'pair': 'BTCBRL', 'sell': 49633.95, 'last': 49650.0, 'vol': 778.92630563, 'high': 53450.0, 'buy': 49502.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38260354.24194548, 'pair': 'BTCBRL', 'sell': 49499.98, 'last': 49009.9, 'vol': 777.95191802, 'high': 53450.0, 'buy': 49009.9}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38272009.79427044, 'pair': 'BTCBRL', 'sell': 49009.91, 'last': 49000.0, 'vol': 778.19194275, 'high': 53450.0, 'buy': 49000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38257345.83087205, 'pair': 'BTCBRL', 'sell': 49001.99, 'last': 49000.0, 'vol': 777.91367298, 'high': 53450.0, 'buy': 49000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38242798.10223435, 'pair': 'BTCBRL', 'sell': 49001.98, 'last': 49002.0, 'vol': 777.63512374, 'high': 53450.0, 'buy': 49000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38195439.76700122, 'pair': 'BTCBRL', 'sell': 49001.97, 'last': 49001.98, 'vol': 776.71374272, 'high': 53450.0, 'buy': 49000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38195439.76700122, 'pair': 'BTCBRL', 'sell': 49001.97, 'last': 49001.98, 'vol': 776.71374272, 'high': 53450.0, 'buy': 49000.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38195439.76700122, 'pair': 'BTCBRL', 'sell': 49001.98, 'last': 49001.98, 'vol': 776.71374272, 'high': 53450.0, 'buy': 49001.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38198294.08941967, 'pair': 'BTCBRL', 'sell': 49001.98, 'last': 48900.0, 'vol': 776.77896112, 'high': 53450.0, 'buy': 48900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38198217.56824627, 'pair': 'BTCBRL', 'sell': 49001.98, 'last': 49001.98, 'vol': 776.77755902, 'high': 53450.0, 'buy': 48900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38198217.56824627, 'pair': 'BTCBRL', 'sell': 49001.98, 'last': 49001.98, 'vol': 776.77755902, 'high': 53450.0, 'buy': 48900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 38114370.10801328, 'pair': 'BTCBRL', 'sell': 49001.95, 'last': 49001.96, 'vol': 775.12659816, 'high': 53450.0, 'buy': 48900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37903463.30957255, 'pair': 'BTCBRL', 'sell': 48999.99, 'last': 49001.95, 'vol': 770.9544928, 'high': 53450.0, 'buy': 48900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37903463.30957255, 'pair': 'BTCBRL', 'sell': 48999.99, 'last': 49001.95, 'vol': 770.9544928, 'high': 53450.0, 'buy': 48900.1}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37924456.11010955, 'pair': 'BTCBRL', 'sell': 49497.95, 'last': 49001.6, 'vol': 771.40577073, 'high': 53450.0, 'buy': 48900.1}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37926554.02197924, 'pair': 'BTCBRL', 'sell': 49497.94, 'last': 49300.01, 'vol': 771.45287742, 'high': 53450.0, 'buy': 49000.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37926554.02197924, 'pair': 'BTCBRL', 'sell': 49497.8, 'last': 49300.01, 'vol': 771.45287742, 'high': 53450.0, 'buy': 49002.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37926554.02197924, 'pair': 'BTCBRL', 'sell': 49497.75, 'last': 49300.01, 'vol': 771.45287742, 'high': 53450.0, 'buy': 49002.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37062879.31554154, 'pair': 'BTCBRL', 'sell': 49497.59, 'last': 49497.6, 'vol': 754.21434632, 'high': 53450.0, 'buy': 49002.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37062879.31554154, 'pair': 'BTCBRL', 'sell': 49497.48, 'last': 49497.6, 'vol': 754.21434632, 'high': 53450.0, 'buy': 49002.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 37062879.31554154, 'pair': 'BTCBRL', 'sell': 49497.37, 'last': 49497.6, 'vol': 754.21434632, 'high': 53450.0, 'buy': 49002.08}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36876932.10512009, 'pair': 'BTCBRL', 'sell': 49497.3, 'last': 49002.08, 'vol': 750.50554387, 'high': 53450.0, 'buy': 49002.09}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36876932.10512009, 'pair': 'BTCBRL', 'sell': 49497.21, 'last': 49002.08, 'vol': 750.50554387, 'high': 53450.0, 'buy': 49002.09}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36876932.10512009, 'pair': 'BTCBRL', 'sell': 49497.04, 'last': 49002.08, 'vol': 750.50554387, 'high': 53450.0, 'buy': 49002.09}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36876932.10512009, 'pair': 'BTCBRL', 'sell': 49497.03, 'last': 49002.08, 'vol': 750.50554387, 'high': 53450.0, 'buy': 49005.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36876932.10512009, 'pair': 'BTCBRL', 'sell': 49299.97, 'last': 49002.08, 'vol': 750.50554387, 'high': 53450.0, 'buy': 49030.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36654101.87641624, 'pair': 'BTCBRL', 'sell': 49297.99, 'last': 49297.99, 'vol': 746.10305554, 'high': 53450.0, 'buy': 49100.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36613373.0447197, 'pair': 'BTCBRL', 'sell': 49297.95, 'last': 49297.95, 'vol': 745.29920567, 'high': 53450.0, 'buy': 49045.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36613373.0447197, 'pair': 'BTCBRL', 'sell': 49297.0, 'last': 49297.95, 'vol': 745.29920567, 'high': 53450.0, 'buy': 49045.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36623542.10336967, 'pair': 'BTCBRL', 'sell': 49296.84, 'last': 49296.92, 'vol': 745.51134382, 'high': 53450.0, 'buy': 49200.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36623542.10336967, 'pair': 'BTCBRL', 'sell': 49296.78, 'last': 49296.92, 'vol': 745.51134382, 'high': 53450.0, 'buy': 49200.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36623542.10336967, 'pair': 'BTCBRL', 'sell': 49296.79, 'last': 49296.92, 'vol': 745.51134382, 'high': 53450.0, 'buy': 49200.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36521524.4285354, 'pair': 'BTCBRL', 'sell': 49296.72, 'last': 49296.79, 'vol': 743.51483894, 'high': 53450.0, 'buy': 49200.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36487174.39611186, 'pair': 'BTCBRL', 'sell': 49296.67, 'last': 49296.67, 'vol': 742.84413553, 'high': 53450.0, 'buy': 48900.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36454469.0156916, 'pair': 'BTCBRL', 'sell': 49200.01, 'last': 48601.0, 'vol': 742.24697738, 'high': 53450.0, 'buy': 48601.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36454469.0156916, 'pair': 'BTCBRL', 'sell': 49200.0, 'last': 48601.0, 'vol': 742.24697738, 'high': 53450.0, 'buy': 48601.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36454469.0156916, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 48601.0, 'vol': 742.24697738, 'high': 53450.0, 'buy': 48602.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36454469.0156916, 'pair': 'BTCBRL', 'sell': 49296.88, 'last': 48601.0, 'vol': 742.24697738, 'high': 53450.0, 'buy': 48604.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36454469.0156916, 'pair': 'BTCBRL', 'sell': 49296.88, 'last': 48601.0, 'vol': 742.24697738, 'high': 53450.0, 'buy': 48604.04}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36454469.0156916, 'pair': 'BTCBRL', 'sell': 49296.85, 'last': 48601.0, 'vol': 742.24697738, 'high': 53450.0, 'buy': 48604.07}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36034758.2935222, 'pair': 'BTCBRL', 'sell': 49296.85, 'last': 48604.08, 'vol': 734.08305846, 'high': 53450.0, 'buy': 48604.08}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36034758.2935222, 'pair': 'BTCBRL', 'sell': 49295.84, 'last': 48604.08, 'vol': 734.08305846, 'high': 53450.0, 'buy': 48604.08}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49293.82, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48610.09}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49293.83, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48610.08}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48606.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49099.99, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48606.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48622.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48626.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48627.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49099.99, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48627.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 36028762.26091744, 'pair': 'BTCBRL', 'sell': 49099.99, 'last': 49295.84, 'vol': 733.96550275, 'high': 53450.0, 'buy': 48627.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35810620.12079178, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49100.0, 'vol': 729.76294023, 'high': 53450.0, 'buy': 48627.06}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35632164.30807767, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49099.99, 'vol': 726.32623067, 'high': 53450.0, 'buy': 48626.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35632164.30807767, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49099.99, 'vol': 726.32623067, 'high': 53450.0, 'buy': 48651.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35632164.30807767, 'pair': 'BTCBRL', 'sell': 49099.99, 'last': 49099.99, 'vol': 726.32623067, 'high': 53450.0, 'buy': 49000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35600100.63933252, 'pair': 'BTCBRL', 'sell': 49100.0, 'last': 49099.99, 'vol': 725.71664138, 'high': 53450.0, 'buy': 49099.99}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35623869.65876865, 'pair': 'BTCBRL', 'sell': 49289.99, 'last': 49289.98, 'vol': 726.19896718, 'high': 53450.0, 'buy': 49289.98}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35630542.48897959, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49296.9, 'vol': 726.35008718, 'high': 53450.0, 'buy': 49000.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35632656.0599261, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49000.0, 'vol': 726.40346833, 'high': 53450.0, 'buy': 48659.14}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35632656.0599261, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49000.0, 'vol': 726.40346833, 'high': 53450.0, 'buy': 48680.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35632656.0599261, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49000.0, 'vol': 726.40346833, 'high': 53450.0, 'buy': 48680.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.88, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.87, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.88, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 49296.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.88, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.85, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.85, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.83, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.75, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 35586999.50123261, 'pair': 'BTCBRL', 'sell': 49296.7, 'last': 49296.89, 'vol': 725.53148024, 'high': 53450.0, 'buy': 48681.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.55, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.51, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.06}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.45, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.06}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.54, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.05}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.32, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.05}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.22, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.05}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.17, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48681.11}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.09, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48682.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49296.0, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48682.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34804305.75433077, 'pair': 'BTCBRL', 'sell': 49289.95, 'last': 49296.7, 'vol': 710.450343, 'high': 53450.0, 'buy': 48682.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34739685.94245624, 'pair': 'BTCBRL', 'sell': 49289.95, 'last': 48682.0, 'vol': 709.23884375, 'high': 53450.0, 'buy': 48681.14}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34770314.92239975, 'pair': 'BTCBRL', 'sell': 49287.99, 'last': 48659.08, 'vol': 709.87674125, 'high': 53450.0, 'buy': 48659.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34770314.92239975, 'pair': 'BTCBRL', 'sell': 49284.94, 'last': 48659.08, 'vol': 709.87674125, 'high': 53450.0, 'buy': 48659.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34770314.92239975, 'pair': 'BTCBRL', 'sell': 49099.9, 'last': 48659.08, 'vol': 709.87674125, 'high': 53450.0, 'buy': 48659.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34770314.92239975, 'pair': 'BTCBRL', 'sell': 48899.99, 'last': 48659.08, 'vol': 709.87674125, 'high': 53450.0, 'buy': 48659.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34721864.51585784, 'pair': 'BTCBRL', 'sell': 48899.97, 'last': 48899.97, 'vol': 708.9901566, 'high': 53450.0, 'buy': 48659.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34721864.51585784, 'pair': 'BTCBRL', 'sell': 49287.59, 'last': 48899.97, 'vol': 708.9901566, 'high': 53450.0, 'buy': 48659.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34721864.51585784, 'pair': 'BTCBRL', 'sell': 49287.59, 'last': 48899.97, 'vol': 708.9901566, 'high': 53450.0, 'buy': 48659.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34721864.51585784, 'pair': 'BTCBRL', 'sell': 49287.65, 'last': 48899.97, 'vol': 708.9901566, 'high': 53450.0, 'buy': 48659.07}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34719460.71967284, 'pair': 'BTCBRL', 'sell': 49287.65, 'last': 48859.12, 'vol': 708.94739885, 'high': 53450.0, 'buy': 48859.12}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34719460.71967284, 'pair': 'BTCBRL', 'sell': 49287.65, 'last': 48859.12, 'vol': 708.94739885, 'high': 53450.0, 'buy': 48859.13}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34719460.71967284, 'pair': 'BTCBRL', 'sell': 49287.65, 'last': 48859.12, 'vol': 708.94739885, 'high': 53450.0, 'buy': 48859.14}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34719460.71967284, 'pair': 'BTCBRL', 'sell': 49287.65, 'last': 48859.12, 'vol': 708.94739885, 'high': 53450.0, 'buy': 48859.18}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34574579.21232508, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49296.89, 'vol': 706.19545643, 'high': 53450.0, 'buy': 48680.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34574579.21232508, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49296.89, 'vol': 706.19545643, 'high': 53450.0, 'buy': 48680.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34574579.21232508, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49296.89, 'vol': 706.19545643, 'high': 53450.0, 'buy': 48680.07}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34420876.45343582, 'pair': 'BTCBRL', 'sell': 49296.89, 'last': 49296.89, 'vol': 703.20604308, 'high': 53450.0, 'buy': 48685.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34420876.45343582, 'pair': 'BTCBRL', 'sell': 49300.0, 'last': 49296.89, 'vol': 703.20604308, 'high': 53450.0, 'buy': 48685.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34420876.45343582, 'pair': 'BTCBRL', 'sell': 49300.0, 'last': 49296.89, 'vol': 703.20604308, 'high': 53450.0, 'buy': 48900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34426402.88389982, 'pair': 'BTCBRL', 'sell': 49300.0, 'last': 48879.08, 'vol': 703.32519582, 'high': 53450.0, 'buy': 48879.08}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34426402.88389982, 'pair': 'BTCBRL', 'sell': 49299.99, 'last': 48879.08, 'vol': 703.32519582, 'high': 53450.0, 'buy': 48905.51}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34344544.19851538, 'pair': 'BTCBRL', 'sell': 49300.0, 'last': 49299.99, 'vol': 701.72683801, 'high': 53450.0, 'buy': 48905.55}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34344544.19851538, 'pair': 'BTCBRL', 'sell': 49300.0, 'last': 49299.99, 'vol': 701.72683801, 'high': 53450.0, 'buy': 48905.61}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34346939.63624513, 'pair': 'BTCBRL', 'sell': 49999.0, 'last': 49999.0, 'vol': 701.79400263, 'high': 53450.0, 'buy': 49800.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34384851.56559667, 'pair': 'BTCBRL', 'sell': 49799.98, 'last': 49799.99, 'vol': 702.55528525, 'high': 53450.0, 'buy': 48905.62}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34397890.50288262, 'pair': 'BTCBRL', 'sell': 49758.99, 'last': 49800.0, 'vol': 702.83729625, 'high': 53450.0, 'buy': 49010.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34395408.15510387, 'pair': 'BTCBRL', 'sell': 49800.98, 'last': 49800.0, 'vol': 702.79618974, 'high': 53450.0, 'buy': 49010.18}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34395408.15510387, 'pair': 'BTCBRL', 'sell': 49800.99, 'last': 49800.0, 'vol': 702.79618974, 'high': 53450.0, 'buy': 49112.1}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34395408.15510387, 'pair': 'BTCBRL', 'sell': 49800.98, 'last': 49800.0, 'vol': 702.79618974, 'high': 53450.0, 'buy': 49120.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34395408.15510387, 'pair': 'BTCBRL', 'sell': 49800.99, 'last': 49800.0, 'vol': 702.79618974, 'high': 53450.0, 'buy': 49800.98}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34457061.98488771, 'pair': 'BTCBRL', 'sell': 50000.07, 'last': 50000.0, 'vol': 704.03159186, 'high': 53450.0, 'buy': 49200.07}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34460612.82156979, 'pair': 'BTCBRL', 'sell': 50350.97, 'last': 50325.0, 'vol': 704.13309084, 'high': 53450.0, 'buy': 49416.11}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34454938.31047299, 'pair': 'BTCBRL', 'sell': 50350.96, 'last': 50350.0, 'vol': 704.0261321, 'high': 53450.0, 'buy': 49417.28}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34454938.31047299, 'pair': 'BTCBRL', 'sell': 50350.96, 'last': 50350.0, 'vol': 704.0261321, 'high': 53450.0, 'buy': 49500.11}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34272041.37946641, 'pair': 'BTCBRL', 'sell': 50350.96, 'last': 50350.0, 'vol': 700.44320432, 'high': 53450.0, 'buy': 49500.12}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34235297.99738566, 'pair': 'BTCBRL', 'sell': 50350.96, 'last': 50200.01, 'vol': 699.72873096, 'high': 53450.0, 'buy': 50200.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34235297.99738566, 'pair': 'BTCBRL', 'sell': 50350.97, 'last': 50200.01, 'vol': 699.72873096, 'high': 53450.0, 'buy': 49510.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50350.97, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 49511.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50349.99, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 49512.31}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50299.99, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 49610.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50299.99, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 49610.47}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50299.99, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 50000.03}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50300.0, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 50000.33}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34225907.93408157, 'pair': 'BTCBRL', 'sell': 50300.0, 'last': 50350.97, 'vol': 699.5449401, 'high': 53450.0, 'buy': 50000.33}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34212113.04762047, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 50000.02, 'vol': 699.27710233, 'high': 53450.0, 'buy': 49801.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34203418.37794496, 'pair': 'BTCBRL', 'sell': 50339.0, 'last': 50000.02, 'vol': 699.10708913, 'high': 53450.0, 'buy': 49900.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34203418.37794496, 'pair': 'BTCBRL', 'sell': 50338.99, 'last': 50000.02, 'vol': 699.10708913, 'high': 53450.0, 'buy': 49900.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34232568.62593112, 'pair': 'BTCBRL', 'sell': 50199.0, 'last': 49899.99, 'vol': 699.6919299, 'high': 53450.0, 'buy': 49801.2}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34257439.09795465, 'pair': 'BTCBRL', 'sell': 50339.98, 'last': 50339.98, 'vol': 700.18708862, 'high': 53450.0, 'buy': 49801.2}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 50330.0, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49416.21}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 50320.0, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49802.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 50219.99, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49802.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 50200.0, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49800.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49801.9}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49801.9}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34250823.93254276, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49801.0, 'vol': 700.06252967, 'high': 53450.0, 'buy': 49900.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34191112.93581454, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 49801.9, 'vol': 698.89264174, 'high': 53450.0, 'buy': 49801.9}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34191112.93581454, 'pair': 'BTCBRL', 'sell': 50000.0, 'last': 49801.9, 'vol': 698.89264174, 'high': 53450.0, 'buy': 49801.9}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34167807.06311198, 'pair': 'BTCBRL', 'sell': 50300.0, 'last': 50300.0, 'vol': 698.43689818, 'high': 53450.0, 'buy': 49950.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34167807.06311198, 'pair': 'BTCBRL', 'sell': 50300.0, 'last': 50300.0, 'vol': 698.43689818, 'high': 53450.0, 'buy': 49950.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34161989.15177565, 'pair': 'BTCBRL', 'sell': 50299.97, 'last': 49950.0, 'vol': 698.32277484, 'high': 53450.0, 'buy': 49950.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34161455.89866877, 'pair': 'BTCBRL', 'sell': 50299.96, 'last': 49950.0, 'vol': 698.31238986, 'high': 53450.0, 'buy': 49950.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34161455.89866877, 'pair': 'BTCBRL', 'sell': 50299.89, 'last': 49950.0, 'vol': 698.31238986, 'high': 53450.0, 'buy': 49951.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34161455.89866877, 'pair': 'BTCBRL', 'sell': 50299.85, 'last': 49950.0, 'vol': 698.31238986, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34161455.89866877, 'pair': 'BTCBRL', 'sell': 50299.86, 'last': 49950.0, 'vol': 698.31238986, 'high': 53450.0, 'buy': 50100.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 34069588.89486758, 'pair': 'BTCBRL', 'sell': 50299.85, 'last': 50100.0, 'vol': 696.50909782, 'high': 53450.0, 'buy': 50200.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33971315.00787746, 'pair': 'BTCBRL', 'sell': 50299.83, 'last': 50200.01, 'vol': 694.57283337, 'high': 53450.0, 'buy': 50200.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33971315.00787746, 'pair': 'BTCBRL', 'sell': 50299.83, 'last': 50200.01, 'vol': 694.57283337, 'high': 53450.0, 'buy': 50200.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33977285.89783711, 'pair': 'BTCBRL', 'sell': 50299.82, 'last': 49955.0, 'vol': 694.69257413, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33977285.89783711, 'pair': 'BTCBRL', 'sell': 50299.82, 'last': 49955.0, 'vol': 694.69257413, 'high': 53450.0, 'buy': 49956.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+ERROR 2017-12-24 21:15:49 - Sem conexão com a internet.
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33951737.46225483, 'pair': 'BTCBRL', 'sell': 50299.8, 'last': 50299.8, 'vol': 694.1888549, 'high': 53450.0, 'buy': 49956.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33951737.46225483, 'pair': 'BTCBRL', 'sell': 50299.79, 'last': 50299.8, 'vol': 694.1888549, 'high': 53450.0, 'buy': 49956.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33951737.46225483, 'pair': 'BTCBRL', 'sell': 49999.99, 'last': 50299.8, 'vol': 694.1888549, 'high': 53450.0, 'buy': 49956.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.99, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49956.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49956.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49956.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49956.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.96, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49957.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.96, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49957.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.96, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.94, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.94, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.9, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.9, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.02}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.99, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33987283.04244093, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 694.89742525, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33895219.47165773, 'pair': 'BTCBRL', 'sell': 50298.99, 'last': 49955.01, 'vol': 693.10180593, 'high': 53450.0, 'buy': 50055.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33895224.50155673, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 693.10190593, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33895224.50155673, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 693.10190593, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33895224.50155673, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 693.10190593, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33895224.50155673, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 693.10190593, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33895224.50155673, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.99, 'vol': 693.10190593, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50297.97, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50297.97, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50247.71, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50230.38, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50186.52, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50105.64, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33892061.97375102, 'pair': 'BTCBRL', 'sell': 50184.52, 'last': 49955.01, 'vol': 693.04107267, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33835612.27357215, 'pair': 'BTCBRL', 'sell': 49998.77, 'last': 49955.0, 'vol': 691.95464861, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33835612.27357215, 'pair': 'BTCBRL', 'sell': 49996.79, 'last': 49955.0, 'vol': 691.95464861, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33835612.27357215, 'pair': 'BTCBRL', 'sell': 49999.3, 'last': 49955.0, 'vol': 691.95464861, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33835612.27357215, 'pair': 'BTCBRL', 'sell': 49999.33, 'last': 49955.0, 'vol': 691.95464861, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33835612.27357215, 'pair': 'BTCBRL', 'sell': 49999.03, 'last': 49955.0, 'vol': 691.95464861, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50297.89, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50298.61, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50298.15, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50298.87, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50297.39, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50293.71, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50295.4, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50296.9, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50297.11, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50297.04, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50297.17, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33809628.89588531, 'pair': 'BTCBRL', 'sell': 50298.99, 'last': 49955.0, 'vol': 691.45686509, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33816175.63540328, 'pair': 'BTCBRL', 'sell': 50298.55, 'last': 50297.98, 'vol': 691.59130232, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33816175.63540328, 'pair': 'BTCBRL', 'sell': 50297.56, 'last': 50297.98, 'vol': 691.59130232, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33816175.63540328, 'pair': 'BTCBRL', 'sell': 50298.99, 'last': 50297.98, 'vol': 691.59130232, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50298.98, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50297.6, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50293.97, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50291.92, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.0}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50296.47, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50298.24, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50295.38, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50298.31, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 49955.01}
+INFO 2017-12-24 21:15:49 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-24 21:15:49 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-24 21:15:49 - {'low': 45550.0, 'vol_brl': 33815802.63546704, 'pair': 'BTCBRL', 'sell': 50298.38, 'last': 50298.29, 'vol': 691.58438919, 'high': 53450.0, 'buy': 50000.01}
+INFO 2017-12-25 03:26:39 - {'sell': 50297.04, 'high': 53450.0, 'last': 50298.29, 'vol_brl': 33815802.63546704, 'vol': 691.58438919, 'low': 45550.0, 'pair': 'BTCBRL', 'buy': 50000.01}
+INFO 2017-12-25 03:26:39 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-25 03:26:39 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-25 03:26:39 - {'sell': 50298.99, 'high': 53450.0, 'last': 50298.39, 'vol_brl': 33813804.80660914, 'vol': 691.54715326, 'low': 45550.0, 'pair': 'BTCBRL', 'buy': 49955.0}
+INFO 2017-12-25 03:26:39 - Starting new HTTPS connection (1): api.blinktrade.com
+DEBUG 2017-12-25 03:26:39 - "GET /api/v1/BRL/ticker HTTP/1.1" 200 None
+INFO 2017-12-25 03:26:39 - {'sell': 50298.3, 'high': 53450.0, 'last': 50298.39, 'vol_brl': 33813804.80660914, 'vol': 691.54715326, 'low': 45550.0, 'pair': 'BTCBRL', 'buy': 49955.0}

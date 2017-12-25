@@ -6,6 +6,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.utils import COMMASPACE, formatdate
 from sys import argv
+from statistics import mean
 
 """ INFO
 last: preço em Reais baseado no último trade de cada exchange e ponderado pelo volume do período
@@ -121,6 +122,33 @@ def send_mail(send_from, send_to, subject, text):
     smtp.sendmail(send_from, send_to, msg.as_string())
     smtp.close()
 
+def media(n, offset=None):
+    with open("config/lasts.txt") as f:
+        avg_line_length = 74
+        to_read = n + (offset or 0)
+
+        while 1:
+            try:
+                f.seek(-(avg_line_length * to_read), 2)
+            except IOError:
+                # woops.  apparently file is smaller than what we want
+                # to step back, go to the beginning instead
+                f.seek(0)
+            pos = f.tell()
+            lines = f.read().splitlines()
+            if len(lines) >= to_read or pos == 0:
+                lista = lines[-to_read:offset and -offset or None]
+                break
+            avg_line_length *= 1.3
+
+        new = []
+        for i in lista:
+            new.append(float(i))
+        return(mean(new))
+
+
+
+
 
 if __name__ == "__main__":
 
@@ -129,25 +157,31 @@ if __name__ == "__main__":
         time.sleep(60) # new requisition every 1 minute
 
         num_lines = sum(1 for line in open('config/lasts.txt'))
+        numero_de_minutos = 15
 
-        if(num_lines % 60 == 0):
+        if(num_lines % numero_de_minutos == 0):
             hora = convert_timestamp(time.time())
+            media_preco_bitcoin = media(numero_de_minutos)
             if(len(argv) > 2):
                 try:
-                    send_mail("elizabot123@gmail.com", argv[1], "oi, eu tenho atualizacoes"
-                            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+                    send_mail("elizabot123@gmail.com", argv[1], "Média dos bitcoins"
+                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foram: R$' +
+                             str(media_preco_bitcoin) + "\nDATA DA CHECAGEM:" + str(hora))
                 except:
                     log(hora, "ERROR", "Erro ao enviar email para: " + argv[1])
 
             else:
                 try:
-                    send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "oi, eu tenho atualizacoes"
-                            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+                    send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "Média dos bitcoins"
+                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foram: R$' + 
+                            str(media_preco_bitcoin) + "\nDATA DA CHECAGEM:" + str(hora))
                 except:
                     log(hora, "ERROR", "Erro ao enviar email para: tarcisio_marinho09@hotmail.com")
 
                 try:
-                    send_mail("elizabot123@gmail.com", "felix_ruan09@hotmail.com", "oi, eu tenho atualizacoes"
-                            , "eae men kkk, cheque as atualizacoes de como estao os bitcoins kkk - " + str(hora))
+                    send_mail("elizabot123@gmail.com", "felix_ruan09@hotmail.com", "Média dos bitcoins"
+                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foram: R$' + 
+                            str(media_preco_bitcoin) + "\nDATA DA CHECAGEM:" + str(hora))
                 except:
                     log(hora, "ERROR", "Erro ao enviar email para: felix_ruan09@hotmail.com")
+                    
