@@ -58,7 +58,7 @@ if __name__ == "__main__":
     
     #xs, ys = create_dataset(40, 80, 2, correlation = "pos")
     
-    with open("opens.txt") as f:
+    with open("lasts.txt") as f:
         content = f.read()
         content = content.split("\n")
         content.remove("")
