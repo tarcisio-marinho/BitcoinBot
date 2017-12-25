@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Logs from btc price
+config/lasts.txt
+config/logg.log
+
 # Distribution / packaging
 .Python
 env/
