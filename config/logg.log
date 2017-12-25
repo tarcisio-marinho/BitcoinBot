@@ -1879,3 +1879,9 @@ INFO 2017-12-23 03:14:38 - Starting new HTTPS connection (1): api.bitvalor.com
 DEBUG 2017-12-23 03:14:38 - "GET /v1/ticker.json HTTP/1.1" 200 1417
 INFO 2017-12-23 03:14:38 - {'open': 57900, 'money': 5861020.7868568, 'vwap': 55823.454518087, 'trades': 1498, 'low': 53355, 'high': 57920, 'last': 54500, 'vol': 104.9920833}
 INFO 2017-12-23 13:24:09 - {'last': 55700.1, 'vol': 87.84556725, 'money': 4843652.7485905, 'low': 53355, 'open': 57200, 'trades': 1277, 'vwap': 55138.271630781, 'high': 57200}
+INFO 2017-12-23 16:27:12 - {'vwap': 55634.438090387, 'vol': 20.87740999, 'last': 55301.97, 'high': 56400, 'money': 1161502.9735763, 'open': 56300, 'trades': 369, 'low': 55294.01}
+INFO 2017-12-23 16:27:12 - Starting new HTTPS connection (1): api.bitvalor.com
+DEBUG 2017-12-23 16:27:12 - "GET /v1/ticker.json HTTP/1.1" 200 1422
+INFO 2017-12-23 16:27:12 - {'vwap': 55622.127652234, 'vol': 21.27457738, 'last': 55301.97, 'high': 56400, 'money': 1183337.2587777, 'open': 55999.99, 'trades': 365, 'low': 55294.01}
+INFO 2017-12-23 16:27:12 - Starting new HTTPS connection (1): api.bitvalor.com
+INFO 2017-12-23 16:34:54 - {'trades': 320, 'vwap': 55513.858114019, 'last': 55310.01, 'money': 1035414.7399932, 'vol': 18.65146425, 'open': 55920, 'high': 56385, 'low': 55294.01}

@@ -51,17 +51,19 @@ def log(timestamp, mode, message):
     elif(mode == "CRITICAL"):
         logger.critical(message)
 
-def save_open(last):
+def save_last(last):
     if(not os.path.isdir("config/")):
         os.mkdir("config")
     
-    with open("config/opens.txt", "a+") as f:
+    with open("config/lasts.txt", "a+") as f:
         f.write(last + "\n")
 
-# fazer no maximo 1 requisição por minuto
+
 def request_API():
-    url = "https://api.bitvalor.com/v1/ticker.json"
+
+    url = "https://api.blinktrade.com/api/v1/BRL/ticker"
     try:
+        timestamp = time.time()
         req = requests.get(url)
 
     except requests.exceptions.ConnectionError:
@@ -76,30 +78,18 @@ def request_API():
         data = json.loads(req.text)
 
         # datetime
-        request_date = convert_timestamp(data["timestamp"]["exchanges"]["FOX"])
+        request_date = convert_timestamp(timestamp)
 
-        #dict
-        foxbit_exchanges_1h = data["ticker_1h"]["exchanges"]["FOX"]
-
-        # all features
-        foxbit_last = foxbit_exchanges_1h["last"]
-        foxbit_high = foxbit_exchanges_1h["high"]
-        foxbit_low = foxbit_exchanges_1h["low"]
-        foxbit_vol = foxbit_exchanges_1h["vol"]
-        foxbit_vwap = foxbit_exchanges_1h["vwap"]
-        foxbit_money = foxbit_exchanges_1h["money"]
-        foxbit_trades = foxbit_exchanges_1h["trades"]
-        foxbit_open = foxbit_exchanges_1h["open"]
+        foxbit_vol = data["vol"]
+        foxbit_high = data["high"]
+        foxbit_sell = data["sell"]
+        foxbit_low = data["low"]
+        foxbit_buy = data["buy"]
+        foxbit_last = data["last"] 
 
 
-        log(request_date, "INFO", str(foxbit_exchanges_1h))
-        save_open(str(foxbit_open))
-        
-    elif(req.status_code == 304):
-        log(None, "WARNING", "Nenhuma alteracao ocorrida desde a última checagem.")
-    
-    elif(req.status_code == 429):
-        log(None, "CRITICAL", "Muitas requisições feitas, se continuar, não poderá fazer mais checagens.")
+        log(request_date, "INFO", str(data))
+        save_last(str(foxbit_last))
 
 
 def send_mail(send_from, send_to, subject, text):
