@@ -24,7 +24,7 @@ mine email and felix's email
 
     python3 consult.py <youremail@serv.com>
 
-# Running regression
+# Data Visualization / prediction
 ![alt text](btc_price.png)
 
     python3 mining.py
