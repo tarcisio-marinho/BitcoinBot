@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Logs from btc price
-config/lasts.txt
-config/logg.log
+data/lasts.txt
+data/logg.log
 
 # Distribution / packaging
 .Python
