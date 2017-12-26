@@ -1,5 +1,0 @@
-INFO 2017-12-25 23:52:02 - {'buy': 50390.0, 'low': 48601.0, 'vol_brl': 11194564.17476632, 'high': 53000.0, 'vol': 220.55000672, 'pair': 'BTCBRL', 'last': 50390.0, 'sell': 50398.0}
-INFO 2017-12-25 23:52:19 - {'last': 50390.0, 'sell': 50398.0, 'high': 53000.0, 'vol': 220.55000672, 'vol_brl': 11194564.17476632, 'low': 48601.0, 'buy': 50390.0, 'pair': 'BTCBRL'}
-INFO 2017-12-25 23:52:38 - {'buy': 50390.0, 'pair': 'BTCBRL', 'vol_brl': 11194564.17476632, 'high': 53000.0, 'low': 48601.0, 'vol': 220.55000672, 'last': 50390.0, 'sell': 50397.99}
-INFO 2017-12-25 23:52:38 - Starting new HTTPS connection (1): api.blinktrade.com
-ERROR 2017-12-25 23:52:38 - Algum erro desconhecido com a checagem da API ocorreu.
