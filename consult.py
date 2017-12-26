@@ -20,7 +20,7 @@ def convert_timestamp(timestamp):
 
 
 def log(timestamp, mode, message):
-    if(not os.path.isdir("config/")):
+    if(not os.path.isdir("data/")):
         os.mkdir("config")
 
     if(timestamp == None):
@@ -29,7 +29,7 @@ def log(timestamp, mode, message):
     else:
         LOG_FORMAT = "%(levelname)s {0} - %(message)s".format(timestamp)
     
-    logging.basicConfig(filename = "config/logg.log",
+    logging.basicConfig(filename = "data/logg.log",
                         level=logging.DEBUG,
                         format=LOG_FORMAT)
     logger = logging.getLogger()
@@ -49,10 +49,10 @@ def log(timestamp, mode, message):
         logger.critical(message)
 
 def save_last(last):
-    if(not os.path.isdir("config/")):
+    if(not os.path.isdir("data/")):
         os.mkdir("config")
     
-    with open("config/lasts.txt", "a+") as f:
+    with open("data/lasts.txt", "a+") as f:
         f.write(last + "\n")
 
 
@@ -73,7 +73,6 @@ def request_API():
 
     if (req.status_code == 200):
         data = json.loads(req.text)
-        print(data)
 
         # datetime
         request_date = convert_timestamp(timestamp)
@@ -84,6 +83,8 @@ def request_API():
         foxbit_low = data["low"]
         foxbit_buy = data["buy"]
         foxbit_last = data["last"] 
+
+        print(request_date ,"->", "HIGH:", foxbit_high, "- LOW:", foxbit_low, "- LAST: ", foxbit_last)
 
 
         log(request_date, "INFO", str(data))
@@ -102,13 +103,13 @@ def send_mail(send_from, send_to, subject, text):
 
     msg.attach(MIMEText(text))
 
-    with open("config/logg.log", "rb") as fil:
+    with open("data/logg.log", "rb") as fil:
         part = MIMEApplication(
             fil.read(),
-            Name=basename("config/logg.log")
+            Name=basename("data/logg.log")
         )
     # After the file is closed
-    part['Content-Disposition'] = 'attachment; filename="config/logg.log"'
+    part['Content-Disposition'] = 'attachment; filename="data/logg.log"'
     msg.attach(part)
 
 
@@ -122,7 +123,7 @@ def send_mail(send_from, send_to, subject, text):
 
 
 def media(n, offset=None):
-    with open("config/lasts.txt") as f:
+    with open("data/lasts.txt") as f:
         avg_line_length = 74
         to_read = n + (offset or 0)
 
@@ -145,23 +146,21 @@ def media(n, offset=None):
             new.append(float(i))
         return(mean(new))
 
+def calcula_percentage(novo, antigo):
+    x = (novo*100)/antigo
+    if(novo > antigo):
+        x = x-100
+    else:
+        x = 100 - x
+    return X
 
 if __name__ == "__main__":
-
-''' Quanto diminuiu
-    X = novo*100/antigo. 
-    if(novo > antigo):
-        X = (X - 100)%
-    else:     
-        X = (100 - X)%
-'''
-
 
     while(1):
         preco_bitcoin = request_API()
         time.sleep(60) # new requisition every 1 minute
 
-        num_lines = sum(1 for line in open('config/lasts.txt'))
+        num_lines = sum(1 for line in open('data/lasts.txt'))
         numero_de_minutos = 15
 
         if(num_lines % numero_de_minutos == 0):
