@@ -13,10 +13,6 @@ last: preço em Reais baseado no último trade de cada exchange e ponderado pelo
 high: maior valor em Reais de uma operação no período
 low: menor valor em Reais de uma operação no período
 vol: volume em BTC de operações no período
-vwap: preço médio em Reais no período (volume weighted average price)
-money: volume em Reais de operações no período
-trades: número de operações no período
-open: preço da primeira operação naquela exchange no período
 """
 
 def convert_timestamp(timestamp):
@@ -93,6 +89,8 @@ def request_API():
         log(request_date, "INFO", str(data))
         save_last(str(foxbit_last))
 
+        return foxbit_last
+
 
 def send_mail(send_from, send_to, subject, text):
 
@@ -122,6 +120,7 @@ def send_mail(send_from, send_to, subject, text):
     smtp.sendmail(send_from, send_to, msg.as_string())
     smtp.close()
 
+
 def media(n, offset=None):
     with open("config/lasts.txt") as f:
         avg_line_length = 74
@@ -147,13 +146,19 @@ def media(n, offset=None):
         return(mean(new))
 
 
-
-
-
 if __name__ == "__main__":
 
+''' Quanto diminuiu
+    X = novo*100/antigo. 
+    if(novo > antigo):
+        X = (X - 100)%
+    else:     
+        X = (100 - X)%
+'''
+
+
     while(1):
-        request_API()
+        preco_bitcoin = request_API()
         time.sleep(60) # new requisition every 1 minute
 
         num_lines = sum(1 for line in open('config/lasts.txt'))
@@ -165,7 +170,7 @@ if __name__ == "__main__":
             if(len(argv) > 2):
                 try:
                     send_mail("elizabot123@gmail.com", argv[1], "Média dos bitcoins"
-                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foram: R$' +
+                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foi: R$' +
                              str(media_preco_bitcoin) + "\nDATA DA CHECAGEM:" + str(hora))
                 except:
                     log(hora, "ERROR", "Erro ao enviar email para: " + argv[1])
@@ -173,15 +178,14 @@ if __name__ == "__main__":
             else:
                 try:
                     send_mail("elizabot123@gmail.com", "tarcisio_marinho09@hotmail.com", "Média dos bitcoins"
-                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foram: R$' + 
+                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foi: R$' + 
                             str(media_preco_bitcoin) + "\nDATA DA CHECAGEM:" + str(hora))
                 except:
                     log(hora, "ERROR", "Erro ao enviar email para: tarcisio_marinho09@hotmail.com")
 
                 try:
                     send_mail("elizabot123@gmail.com", "felix_ruan09@hotmail.com", "Média dos bitcoins"
-                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foram: R$' + 
+                            , "eae men kkk, A média do bitcoin nos últimos "+ str(numero_de_minutos) + ' minutos, foi: R$' + 
                             str(media_preco_bitcoin) + "\nDATA DA CHECAGEM:" + str(hora))
                 except:
                     log(hora, "ERROR", "Erro ao enviar email para: felix_ruan09@hotmail.com")
-                    
