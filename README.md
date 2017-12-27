@@ -26,5 +26,5 @@ mine email and felix's email
 
 # Data Visualization / prediction
 ![alt text](btc_price.png)
-
+    cd data/
     python3 mining.py
